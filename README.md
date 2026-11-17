@@ -21,6 +21,10 @@ This project focuses on assessing and hardening Amazon S3 storage resources with
 | `cloudstart-private-73921` | Private company documents |
 | `cloudstart-logs-73921` | CloudTrail security logs |
 
+## ARCHITECTURE OVERVIEW
+<img width="1536" height="1024" alt="AWS S3 Security Assessment Infographic" src="https://github.com/user-attachments/assets/5d1dece5-76f6-4a7b-ad0d-93899fc5598e" />
+
+
 ## Security Controls
 
 - Configured S3 Block Public Access.
